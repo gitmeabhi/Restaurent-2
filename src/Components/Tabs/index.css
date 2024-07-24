@@ -1,0 +1,12 @@
+.li-item {
+  font-size: 23px;
+  font-family: Roboto;
+  padding: 10px;
+  padding-right: 40px;
+  font-weight: 500;
+}
+.actives {
+  color: brown;
+  border-bottom: 2px solid brown;
+  border-radius: 15px;
+}
